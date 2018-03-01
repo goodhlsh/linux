@@ -1,13 +1,15 @@
-# linux Ñ§Ï°
+# linux å­¦ä¹ 
 
-1.×ÊÔ´ÏÂÔØ
+1.èµ„æºä¸‹è½½
    
-   ĞéÄâ»úVMware Pro v14.1.1 ¹Ù·½°æ±¾¼°¼¤»îÃÜÔ¿ http://www.zdfans.com/5928.html
+   è™šæ‹ŸæœºVMware Pro v14.1.1 å®˜æ–¹ç‰ˆæœ¬åŠæ¿€æ´»å¯†é’¥ http://www.zdfans.com/5928.html
 
-   centos 7 DVDiso£º http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso
-            ¼ò°æ£º   http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1708.iso
+   centos 7 DVDisoï¼š http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso
+           
+           ç®€ç‰ˆï¼š   http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1708.iso
    
-   Ubuntu 16.04 LTS(³¤ÆÚÖ§³Ö)°æ±¾: http://releases.ubuntu.com/16.04/ubuntu-16.04.3-desktop-amd64.iso
-            ÆäËû£º http://cn.ubuntu.com/download/
+   Ubuntu 16.04 LTS(é•¿æœŸæ”¯æŒ)ç‰ˆæœ¬: http://releases.ubuntu.com/16.04/ubuntu-16.04.3-desktop-amd64.iso
+         
+         å…¶ä»–ï¼š http://cn.ubuntu.com/download/
    
    fedora   https://getfedora.org/
